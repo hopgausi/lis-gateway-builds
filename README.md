@@ -75,6 +75,17 @@ Once you have a key, pass it as `--license-key` or set it in the
 `LIS_LICENSE_KEY` environment variable (see [Configuration](#configuration)
 below)
 
+## Admin UI walkthrough
+
+`walkthrough.pdf` (in this repo) is a full, screenshotted walkthrough of the
+admin web UI — signing in, adding an instrument, connecting it, sending a
+test message, the worklist/lookup flow, REST API settings, users, and
+everything else on the menu bar.
+
+The PDF is password-protected. **To get the password, reach out via
+[github.com/hopgausi](https://github.com/hopgausi)** — same as getting a
+license key.
+
 ## Run it — Linux
 
 ```bash
